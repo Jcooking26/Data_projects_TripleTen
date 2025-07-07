@@ -6,5 +6,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Bike Rental Analysis| task to analyze|
+| 1 | X| X|
 | 2 |X | X|
