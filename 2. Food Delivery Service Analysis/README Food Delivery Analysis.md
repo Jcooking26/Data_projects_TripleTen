@@ -5,7 +5,7 @@
 Executives at a food delivery company are interested in factors that affect delivery time. The food delivery data source provides data points for each delivery trip. 
 
 ## Video Presentation
-[![Watch the video](link to thumbnail img)](link to vid)
+[![Watch the video](https://github.com/Jcooking26/Data_projects_TripleTen/blob/1e788bcc5c05050a9e398830f4412e777a231ad4/2.%20Food%20Delivery%20Service%20Analysis/Pics/Thumbnail.png)](https://www.linkedin.com/posts/jerry-cook-iii-447166138_food-delivery-service-analysis-executives-activity-7350413797028708352-q6sV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACF7nPcBNrTTisEKV5JYY0i_CvXWBZG3vPU)
 
 ## Data points
 * distance traveled
