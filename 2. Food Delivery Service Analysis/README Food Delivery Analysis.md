@@ -51,4 +51,4 @@ Executives at a food delivery company are interested in factors that affect deli
 ### Delivery Time Factors 
 ![alt text](image-3.png)
 ### Daily Delivery Metrics 
-![alt text](image-4.png)
+![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/22a677f039844edfae1c5b8acc9cd94ee88c8a76/2.%20Food%20Delivery%20Service%20Analysis/Pics/Daily%20Delivery%20Metrics.png)
