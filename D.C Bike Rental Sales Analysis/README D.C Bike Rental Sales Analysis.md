@@ -30,6 +30,6 @@ This analysis looks at sales data from bike rental station operations in the Was
 ### Weakly Trends 
 ![Weakly Trends](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Weekly%20Treds.png)
 ### Seasonal Trends
-![Seasonal Trends]([images/chart.png](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Seasonal%20Trends.png))
+![Seasonal Trends](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Seasonal%20Trends.png)
 ### Weather Condition Trends 
-![Weather Condition Trends]([pimages/chart.ng](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Weather%20Condition%20Trends%20.png))
+![Weather Condition Trends](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Weather%20Condition%20Trends%20.png)
