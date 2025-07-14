@@ -43,7 +43,7 @@ Executives at a food delivery company are interested in factors that affect deli
 * Adverse weather conditions increase delivery time. 
 ## Screenshots
 ### Delivery Time vs Distance
-![alt text]([image.png](https://github.com/Jcooking26/Data_projects_TripleTen/blob/d6b99f87c2c29d0be5e5ca272ef6f9fd0d812fbc/2.%20Food%20Delivery%20Service%20Analysis/Pics/Delivery%20Time%20vs%20Distance.png))
+![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/d6b99f87c2c29d0be5e5ca272ef6f9fd0d812fbc/2.%20Food%20Delivery%20Service%20Analysis/Pics/Delivery%20Time%20vs%20Distance.png)
 ### Typical Delivery Time
 ![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/d6b99f87c2c29d0be5e5ca272ef6f9fd0d812fbc/2.%20Food%20Delivery%20Service%20Analysis/Pics/Typical%20Delivery%20Time.png)
 ### Delivery & Traffic 
