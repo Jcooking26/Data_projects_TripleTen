@@ -26,10 +26,10 @@ This analysis looks at sales data from bike rental station operations in the Was
 	* Adverse weather conditions have a negative effect on rental volume. 
 ## Screenshots
 ### Rental Sales Trends
-![Alt Text]()
+![Chart Image](D.C Bike Rental Sales Analysis/Pics/Rental sales Trends.png)
 ### Weakly Trends 
-![Alt Text](raw_url)
+![Chart Image](images/chart.png)
 ### Seasonal Trends
-![Alt Text](raw_url)
+![Chart Image](images/chart.png)
 ### Weather Condition Trends 
-![Alt Text](raw_url)
+![Chart Image](images/chart.png)
