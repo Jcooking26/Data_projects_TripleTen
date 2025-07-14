@@ -47,7 +47,7 @@ Executives at a food delivery company are interested in factors that affect deli
 ### Typical Delivery Time
 ![alt text](image-1.png)
 ### Delivery & Traffic 
-![alt text](image-2.png)
+![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/1fc164f2b771c4f36de4b3b261dbdba87d866e7d/2.%20Food%20Delivery%20Service%20Analysis/Pics/Delivery%20And%20Traffic.png)
 ### Delivery Time Factors 
 ![alt text](image-3.png)
 ### Daily Delivery Metrics 
