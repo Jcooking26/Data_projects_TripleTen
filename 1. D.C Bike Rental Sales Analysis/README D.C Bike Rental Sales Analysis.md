@@ -3,6 +3,9 @@
 This analysis looks at sales data from bike rental station operations in the Washington D.C Metropolitan area. Two years of sales info are provided for analysis. Yearly, monthly, weekly, and daily sales trends are illustrated. Registration status and weather conditions effect on rental activity are also observed. Understanding rental trends will help business stakeholders allocate resources and develop business strategies.
 ## Video Presentation
 ### Click The Video, Leave a Like 
+
+LinkedIn deactivated until 2026
+
 [![Watch the video](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Video%20Thumbnail.png)](https://www.linkedin.com/posts/jerry-cook-iii-447166138_data-analysis-sales-activity-7343737723683237888-R_rf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACF7nPcBNrTTisEKV5JYY0i_CvXWBZG3vPU)
 ## Data Points 
 * Rental Year, Month, Day, Time
@@ -34,3 +37,4 @@ This analysis looks at sales data from bike rental station operations in the Was
 ![Seasonal Trends](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Seasonal%20Trends.png)
 ### Weather Condition Trends 
 ![Weather Condition Trends](https://github.com/Jcooking26/Data_projects_TripleTen/blob/e6296cd67f9b134a98ac9e43ac1bbfd1a9f6e5c2/D.C%20Bike%20Rental%20Sales%20Analysis/Pics/Weather%20Condition%20Trends%20.png)
+
