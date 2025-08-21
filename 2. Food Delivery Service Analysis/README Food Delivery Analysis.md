@@ -6,6 +6,9 @@ Executives at a food delivery company are interested in factors that affect deli
 
 ## Video Presentation
 ### Click The Video, Leave a Like 
+
+LinkedIn deactivated until 2026
+
 [![Watch the video](https://github.com/Jcooking26/Data_projects_TripleTen/blob/1e788bcc5c05050a9e398830f4412e777a231ad4/2.%20Food%20Delivery%20Service%20Analysis/Pics/Thumbnail.png)](https://www.linkedin.com/posts/jerry-cook-iii-447166138_food-delivery-service-analysis-executives-activity-7350413797028708352-q6sV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACF7nPcBNrTTisEKV5JYY0i_CvXWBZG3vPU)
 
 ## Data points
@@ -53,3 +56,4 @@ Executives at a food delivery company are interested in factors that affect deli
 ![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/d6b99f87c2c29d0be5e5ca272ef6f9fd0d812fbc/2.%20Food%20Delivery%20Service%20Analysis/Pics/Delivery%20Time%20Factors.png)
 ### Daily Delivery Metrics 
 ![alt text](https://github.com/Jcooking26/Data_projects_TripleTen/blob/22a677f039844edfae1c5b8acc9cd94ee88c8a76/2.%20Food%20Delivery%20Service%20Analysis/Pics/Daily%20Delivery%20Metrics.png)
+
